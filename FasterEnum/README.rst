@@ -1,7 +1,5 @@
-This folder contains all the implementation/codes used in this submission.
-
-
-Installation
+﻿This folder contains all the implementation/codes used in the following paper:
+- Martin R. Albrecht, Shi Bai, Pierre-Alain Fouque, Paul Kirchner, Damien Stehlé and Weiqiang Wen. Faster Enumeration-based Lattice Reduction: Root Hermite Factor k^(1/(2k)) in Time k^(k/8 + o(k)). Crypto 2020.   Installation
 ------------
 
 1. We assume Python 3 because it allows for a nicer `begins <https://pypi.org/project/begins/>`__ based interfaces.
